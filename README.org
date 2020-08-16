@@ -3,3 +3,8 @@
 This is my attempt to rewrite
 https://github.com/ring-clojure/ring/wiki/Getting-Started
 using deps.edn
+
+
+** another example
+
+https://github.com/seancorfield/usermanager-example/
