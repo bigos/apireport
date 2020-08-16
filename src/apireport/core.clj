@@ -1,4 +1,9 @@
 (ns apireport.core)
 
 (defn -main []
-  (println "Hello apireport"))
+  (println "Hello ApiReport"))
+
+(defn handler [request]
+  {:status 200
+   :headers {"Content-Type" "text/html"}
+   :body "Hello World"})
